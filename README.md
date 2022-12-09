@@ -1,1 +1,1 @@
-# udacity-capstone-h1b-salary
+# project-h1b-salary
